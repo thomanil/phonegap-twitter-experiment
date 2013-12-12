@@ -14,7 +14,6 @@ The makefile depends on the PhoneGap CLI utility. Install it:
 See http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface
 for more reference on the CLI utilities.
 
-
 Building and installing on Android
 ====
 
